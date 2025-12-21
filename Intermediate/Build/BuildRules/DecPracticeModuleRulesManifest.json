@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\alexb\\SuccessfulPractice2025\\Intermediate\\Source\\DecPractice.Build.cs",
+		"C:\\Users\\alexb\\SuccessfulPractice2025\\Intermediate\\Source\\DecPractice.Target.cs",
+		"C:\\Users\\alexb\\SuccessfulPractice2025\\Intermediate\\Source\\DecPracticeClient.Target.cs",
+		"C:\\Users\\alexb\\SuccessfulPractice2025\\Intermediate\\Source\\DecPracticeEditor.Target.cs",
+		"C:\\Users\\alexb\\SuccessfulPractice2025\\Intermediate\\Source\\DecPracticeServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

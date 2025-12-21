@@ -1,0 +1,14 @@
+{
+	"zenserver":
+	{
+		"islocalhost": true,
+		"hostname": "[::1]",
+		"remotehostnames": [
+			"192.168.0.106",
+			"hostname://DESKTOP-KI45VD9"
+		],
+		"hostport": 8558,
+		"projectid": "DecPractice.ac93913a",
+		"oplogid": "Windows"
+	}
+}
